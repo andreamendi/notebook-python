@@ -1,2 +1,4 @@
 cmd + k + c -> para comentar todo lo seleccionado (#)
 cmd + shift + p -> para ver todos los shortcuts.
+
+control + c -> sale de la terminal 
